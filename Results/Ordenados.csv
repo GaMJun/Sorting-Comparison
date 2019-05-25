@@ -1,0 +1,36 @@
+Método, 100, 200, 500, 1000, 2000, 5000, 7500, 10000, 15000, 30000, 50000, 75000, 100000, 200000, 500000, 750000, 1000000, 1250000, 1500000, 2000000
+BubbleSort
+ Tempo(sec), 0.000054, 0.000199, 0.001270, 0.004809, 0.019315, 0.078459, 0.180029, 0.309972, 0.692629, 2.763217, 7.631022, 18.317934, 35.047821, 146.179650, 910.583299, 
+ Swaps, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 
+ Comparações, 9900, 39800, 249500, 999000, 3998000, 24995000, 56242500, 99990000, 224985000, 899970000, 2499950000, 5624925000, 9999900000, 39999800000, 249999500000, 
+
+InsertionSort
+ Tempo(sec), 
+ Swaps, 
+ Comparações, 
+
+SelectionSort
+ Tempo(sec), 
+ Swaps, 
+ Comparações, 
+
+MergeSort
+ Tempo(sec), 
+ Swaps, 
+ Comparações, 
+
+QuickSort
+ Tempo(sec), 
+ Swaps, 
+ Comparações, 
+
+CountingSort
+ Tempo(sec), 
+ Swaps, 
+ Comparações, 
+
+BucketSort
+ Tempo(sec), 
+ Swaps, 
+ Comparações, 
+

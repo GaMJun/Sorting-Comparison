@@ -1,0 +1,3 @@
+/home/gamjun/Downloads/PAA/Trabalho1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gamjun/Downloads/PAA/Trabalho1/cmake-build-debug/CMakeFiles/Trabalho1.dir
+/home/gamjun/Downloads/PAA/Trabalho1/cmake-build-debug/CMakeFiles/edit_cache.dir
