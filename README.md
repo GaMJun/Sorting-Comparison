@@ -3,12 +3,11 @@
 # Sorting-Comparison
 
 > Trabalho desenvolvido dentro da disciplina de Projeto e Análise de Algoritmos 2019 - Ciência da Computação - UNIOESTE, Cascavel.
-> A comparison of time, swaps, and comparisons of the most classic sorting algorithms
 
 # Especificação
 
-[![Clustering-Comparison](https://i.imgur.com/bGR0FVQ.png)](https://github.com/GaMJun/Clustering-Comparison/blob/master/Especifica%C3%A7%C3%A3o%20Trabalho%203.pdf)
-[![Clustering-Comparison](https://i.imgur.com/UxsjcOc.png)](https://github.com/GaMJun/Clustering-Comparison/blob/master/Especifica%C3%A7%C3%A3o%20Trabalho%203.pdf)
+[![Clustering-Comparison](https://i.imgur.com/bGR0FVQ.png)](https://github.com/GaMJun/Sorting-Comparison/blob/master/Trabalho%20PAA%20-%20M%C3%A9todos%20de%20Ordena%C3%A7%C3%A3o.pdf)
+[![Clustering-Comparison](https://i.imgur.com/UxsjcOc.png)](https://github.com/GaMJun/Sorting-Comparison/blob/master/Trabalho%20PAA%20-%20M%C3%A9todos%20de%20Ordena%C3%A7%C3%A3o.pdf)
 ## Time
 
 > Nosso time de desenvolvimento
